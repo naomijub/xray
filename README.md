@@ -1,5 +1,7 @@
 # XRay
 
+**ORIGINAL SOURCE CODE FROM GITLAB https://gitlab.com/tonyfinn/xray**
+
 [![pipeline status](https://gitlab.com/tonyfinn/xray/badges/master/pipeline.svg)](https://gitlab.com/tonyfinn/xray/commits/master)
 
 Screenshot testing for Rust games
